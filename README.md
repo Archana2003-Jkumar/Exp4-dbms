@@ -3,12 +3,16 @@
 To create an SQL query to show record from one table that another table does not have.
 
 ## ALGORITHM 
-### Steps
-1.Create two tables named "table1" and "table2". Both tables have the same columns: id, name, department, and salary.
-2.Insert sample data into both tables.
-3.Use the SELECT statement with a NOT IN subquery to retrieve records from table1 that do not exist in table2 based on the id column comparison.
-4.Retrieve the records from table1 that are not present in table2 based on the id column comparison.
-5.End the program
+### Step1
+Create two tables named "table1" and "table2". Both tables have the same columns: id, name, department, and salary.
+### Step 2
+Insert sample data into both tables.
+### Step 3
+Use the SELECT statement with a NOT IN subquery to retrieve records from table1 that do not exist in table2 based on the id column comparison.
+### Step 4
+Retrieve the records from table1 that are not present in table2 based on the id column comparison.
+### Step 5
+End the program
 ## PROGRAM
 ```
 --- Create the first table
